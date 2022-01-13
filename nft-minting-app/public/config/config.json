@@ -3,7 +3,7 @@
   "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x15c40e26e5c6abe7b08746f48afd7d300763a433",
   "NETWORK": {
     "NAME": "Mumbai Polygon",
-    "SYMBOL": "Matic",
+    "SYMBOL": "TST",
     "ID": 80001
   },
   "NFT_NAME": "Pixgy NFT",
