@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2A9cef19a4E1FFe146e634Fe02d22440bed9996f",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x2a9cef19a4e1ffe146e634fe02d22440bed9996f",
+  "NETWORK": {
+    "NAME": "Polygon Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Pixgy NFTs",
+  "SYMBOL": "PIXGY",
+  "MAX_SUPPLY": 777,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/pixgy-nft-v4",
+  "SHOW_BACKGROUND": true
+}
