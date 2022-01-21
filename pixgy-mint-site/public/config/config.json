@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x74348d029cAd717add68544bd036ccdA47eB8b1F",
+  "SCAN_LINK": "https://polygonscan.com/address/0x74348d029cad717add68544bd036ccda47eb8b1f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixgy NFT",
+  "SYMBOL": "PIXGY",
+  "MAX_SUPPLY": 777,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "GAS_PRICE": 100000000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixgynft",
+  "SHOW_BACKGROUND": true
+}
